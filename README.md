@@ -6,7 +6,7 @@ This repository is for my client's Shopify store, where I host content that is d
 
 To get started, simply clone this repository to your local machine:
 
-git clone https://github.com/monsurriaz/diy-skin-analysis.git
+git clone [https://github.com/monsurriaz/diy-skin-analysis.git](https://github.com/monsurriaz/diy-skin-analysis.git)
 
 ## Contributing
 
