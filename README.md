@@ -12,3 +12,7 @@ git clone [https://github.com/monsurriaz/diy-skin-analysis.git](https://github.c
 
 If you're a developer working on my client's Shopify store, you're welcome to contribute to this repository. Simply fork the repository, make your changes, and submit a pull request. Please make sure your changes are thoroughly tested and well-documented.
 
+
+### All the pages live links
+
+Born Leader [https://monsurriaz.github.io/diy-skin-analysis/born-leader.html](https://monsurriaz.github.io/diy-skin-analysis/born-leader.html)
